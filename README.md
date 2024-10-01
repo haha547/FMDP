@@ -28,4 +28,4 @@ This project is a personal side project developed alongside my Ph.D. studies in 
 - Refine backtesting functionality for both timing strategies and asset allocation.
 
 ## Contact
-If you're interested in this project or have any questions, feel free to contact me at [your email].
+If you're interested in this project or have any questions, feel free to contact me at [hchsu613.cs11@nycu.edu.tw].
